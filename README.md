@@ -1,6 +1,6 @@
 # Learn-KAFKA-with-upstash-JS
 
-My first project to learn kafka.
+My first project to learn kafka and messages streaing witn REST and JS .
 
 ## Description
 
@@ -11,6 +11,7 @@ The application showcases the following features:
 - Kafka message streaming with a cluster created on Upstash.
 - Vanilla JavaScript implementation for simplicity and flexibility.
 - Vite as the bundler for fast development and building.
+- Upstach (https://upstash.com/) to easly create a Kafka Cluster and exploit it with a REST API.
 
 ## Installation
 

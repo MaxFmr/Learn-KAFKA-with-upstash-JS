@@ -1,6 +1,6 @@
 # Learn-KAFKA-with-upstash-JS
 
-My first project to learn kafka and messages streaing witn REST and JS .
+My first project to learn kafka and messages streaming witn REST and JS .
 
 ## Description
 

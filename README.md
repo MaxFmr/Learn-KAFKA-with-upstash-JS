@@ -2,8 +2,6 @@
 
 My first project to learn kafka.
 
-# Project Title
-
 ## Description
 
 This project is a demonstration of Kafka message streaming using Vanilla JavaScript bundled with Vite. It leverages Upstash to create a cluster for Kafka, enabling efficient and reliable message streaming.

@@ -1,6 +1,6 @@
 # Learn-KAFKA-with-upstash-JS
 
-my first project to learn kafka
+My first project to learn kafka.
 
 # Project Title
 
